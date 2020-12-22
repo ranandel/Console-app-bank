@@ -1,0 +1,8 @@
+D:\ПолесГУ\1 курс\ООП\Курсач\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\ПолесГУ\1 курс\ООП\Курсач\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\ПолесГУ\1 курс\ООП\Курсач\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+D:\ПолесГУ\1 курс\ООП\Курсач\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+D:\ПолесГУ\1 курс\ООП\Курсач\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.manifest
+D:\ПолесГУ\1 курс\ООП\Курсач\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.application
+D:\ПолесГУ\1 курс\ООП\Курсач\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe.manifest
+D:\ПолесГУ\1 курс\ООП\Курсач\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.application
